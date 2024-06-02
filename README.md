@@ -1,2 +1,2 @@
 # Pong Game Project
- Created Using C++ and Raylib
+ Created Using C++, C and Raylib
